@@ -1,1 +1,1 @@
-This is a basic Journal app thta i have programmed used JAVA
+This is a basic Journal app that i have programmed used JAVA
