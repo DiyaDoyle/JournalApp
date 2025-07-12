@@ -1,0 +1,3 @@
+Date: 2025-07-12T21:50:10.551508800
+Title: SummaryThis is an excellent first version of your console-based journal app. You've structured it clearly, and you're now capturing full entries using the ::end sentinel - a solid compromise for a console-based app.
+
