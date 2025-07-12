@@ -44,7 +44,7 @@ public class Main {
                     System.out.println("No entries have been added");
                 }
                 else{
-                    System.out.println("Entroes added are: ");
+                    System.out.println("Entries added are: ");
                     for(String str: entries){
                         System.out.println(str);
                     }

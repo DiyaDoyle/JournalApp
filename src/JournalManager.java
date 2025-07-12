@@ -26,7 +26,7 @@ public class JournalManager {
         FileWriter writer= new FileWriter(fileName);
 
         writer.write("Date: "+entry.getDate()+"\n");
-        writer.write("Title: "+entry.getTitle());
+        writer.write("Title: "+entry.getTitle()+"\n");
         writer.write(entry.getEntry().toString());
 
         writer.close();
